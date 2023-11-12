@@ -1,0 +1,16 @@
+.docs-main-section{
+  text-align: center;
+}
+.buttons{
+  border: none;
+  background: none;
+}
+.App{
+  background: -webkit-linear-gradient(to right, #E2E2E2, #7e8ec2);  /* Chrome 10-25, Safari 5.1-6 */
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+.logo{
+  width: 40px;
+  
+}  
